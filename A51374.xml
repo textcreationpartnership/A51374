@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Religio militis, or, A soldier's religion writ by a field officer of the army in his winter-quarters / W. Morgan.</title>
+            <author>Morgan, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51374</idno>
+            <idno type="STC">Wing M2758</idno>
+            <idno type="STC">ESTC R32961</idno>
+            <idno type="EEBO-CITATION">12802905</idno>
+            <idno type="OCLC">ocm 12802905</idno>
+            <idno type="VID">94087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94087)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1037:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Religio militis, or, A soldier's religion writ by a field officer of the army in his winter-quarters / W. Morgan.</title>
+                  <author>Morgan, William.</author>
+               </titleStmt>
+               <extent>[8], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Dring ... and sold by John Whitlock ...</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government.</term>
+               <term>Soldiers --  Great Britain --  Religious life.</term>
+               <term>Christian ethics --  Armed Forces.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94087:1" rendition="simple:additions"/>
+            <p>
+               <hi>RELIGIO MILITIS:</hi> OR, A <hi>Soldier's Religion.</hi>
+            </p>
+            <p>Writ by a FIELD-OFFICER OF THE ARMY. IN HIS WINTER-QUARTERS.</p>
+            <p>
+               <hi>W. MORGAN.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Daniel Dring</hi> at the <hi>Harrow</hi> and <hi>Crown,</hi> at the Corner of <hi>Cliffords-Inn-Lane</hi> in <hi>Fleetſtreet,</hi> and Sold by <hi>John VVhitlock</hi> near <hi>Stationers-Hall,</hi> 1695.</p>
+         </div>
+         <div type="author_to_army">
+            <pb facs="tcp:94087:2" rendition="simple:additions"/>
+            <pb facs="tcp:94087:2"/>
+            <head>To the whole ARMY, both Officers and Soldiers, from the Generals, down to the Private Centinels.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>'TIs for your ſake, and in your Vindication, as well as my Own, I have at this time drawn my Pen; for 'tis a general (thô falſe) Imputation upon Our Profeſsion, That We are Men of no Religion, but a Lewd, Debauch'd, and Rakehelly ſort of People; and without regard for the Honour and Intereſt of Our Coun<g ref="char:EOLhyphen"/>try, fight only for Bread. I muſt confeſs this wou'd be ſevere, if true, and expoſe Us to much Contempt; but being otherwiſe, 'tis of no Weight or Conſideration.</p>
+            <p>I am not a little proud of having choſen You for my Patrons, as bad as you are thought to be; for I am ſure if there be any true Honour left in the World, 'tis to be found in the Armies now on Foot, and more in Our Own than any where elſe, thanks to our Heroick King and General, who has bravely fought at the Head of
+<pb facs="tcp:94087:3"/>us, and rous'd us from the inglorious Eaſe and Luxury of the former Reigns, and once again taught us to draw our Swords, and handle our Arms, to which we were (to our ſhame be it ſpoke!) almost become Strangers. How can we reflect upon the many and well known, glo<g ref="char:EOLhyphen"/>rious and renown'd Atchievements of our Anceſtors, and not bluſh, that we have done nothing at all worthy of them or our ſelves? What an everlaſting Fame have they establiſh'd in Hiſtory? How beautiful and how lovely are their Names? And how dear and valuable is their very Memory to this preſent Age? The fam'd Battels fought and won from our Neighbours by our ancient Heroes, have not only ſwell'd but embeliſh'd our Story. But thus much to your and mine, and indeed to the whole Nations, nay, and all <hi>Europe</hi>'s Joy too! I will, and dare ſay, and without the leaſt pretence to Prophecy or Inſpiration; This gallant Prince whom we have the Honour and Happineſs to call our Own, is the Man cut out and deſtin'd by God and Nature to reduce the Haughty Monarch of <hi>France,</hi> that <hi>Leviathan!</hi> that <hi>Behemoth!</hi> that has made ſuch a noiſe in the World for many Years paſt, and to reſtore Peace to the Longing World, together with the Dominions of the ſeveral Princes our Neighbours, from whom they have been ſo violently and injuriouſly torn, by that Monſter, ſome even before War was declar'd.</p>
+            <pb facs="tcp:94087:3"/>
+            <p>But now to my Text, I have undertaken a bold, nice and hazardous Matter,—Religion! The People's Dar<g ref="char:EOLhyphen"/>ling! the Priest's <hi>Diana!</hi> away with prophane Hands they cry, come not near Us, 'tis our <hi>Sanctum Sancto<g ref="char:EOLhyphen"/>rum;</hi> peep not into, much leſs ſet your Foot here. 'Tis our Magazine, our Ware-houſe: This is our Trade, our Traffick, for hence ariſe our Profits and Honours, and thus we eaſily gull and wheedle the poor unthinking, unwary Fools, of which this World is chiefly made up; ſo we make a gainful Buſineſs on't, We keep the Folks in Ignorance and in Darkneſs, 'tis our Intereſt, and we will do it as long as we can, but your penetrating Eyes that look into, and ſearch ſo narrowly after our Holy Cheats, and pretended Sanctity, that you almoſt ſpoil our Trade, which we had engroſs'd, and monopoliz'd, till you diſcover'd and proclaim'd aloud our Impoſtures to the dull and inſipid Crowd, who ſwallow all we tell them, for want of Senſe to diſtinguiſh? 'Tis you have ruin'd our Gain, we must e'en ſhut up and give o'er, and be<g ref="char:EOLhyphen"/>come Priestrupts, or Broken Priests, which you pleaſe, in ſpight of all our Conduct and Cunning.</p>
+            <p>
+               <hi>Gentlemen,</hi>
+            </p>
+            <p>You may ſee plainly 'tis the Prieſts in general I aim at, I have endeavour'd to laſh them lightly, for they deſerve it: This ſeems to be a Reforming Age, I hope it will re<g ref="char:EOLhyphen"/>form
+<pb facs="tcp:94087:4"/>them too! I have often reflected (and with grief of Mind) upon the Affairs of the World, to ſee how tame and eaſie Princes and Great Men are to ſuffer this ſort of Vermin among them; ſure ſome Death-like Lethargy has ſeiz'd upon and ſtupified them, that has hinder'd them, from baniſhing theſe uſeleſs Fellows out of their Territo<g ref="char:EOLhyphen"/>ries for what they have done and may yet do. How freſh in our Memory are the late horrid Confuſions, Tu<g ref="char:EOLhyphen"/>mults and Uproars occaſion'd by the two furious Black<g ref="char:EOLhyphen"/>coats of <hi>Hamburgh,</hi> the whole City was inflam'd by their intemperate Heat and immoderate Zeal; and nothing cou'd appeaſe them, (after Chairs and Stools thrown at each others Heads, and other ſilly and ridiculous Outra<g ref="char:EOLhyphen"/>ges committed in their Aſſemblies) but the Baniſhment of one, thô of both (nay and all the reſt too!) would have been much better? 'Tis thoſe Sons of Peace (as they thô falſly call themſelves) that thus continually diſturb and deſtroy the Repoſe and Quiet of Mankind. I muſt con<g ref="char:EOLhyphen"/>feſs I ought not to be ſo very angry with, or fierce against them; for they often help us to many a good ſtroke of Work; Religion, (at leaſt the name and pretence) has frequently employ'd our Swords, which might elſe have rusted in their Scabbards; ſo that, to do them Juſtice, they are not ſo much our Enemies as ſome think; for they ſet the Folks together by the Ears, and we muſt knock
+<pb facs="tcp:94087:4"/>'em on the Head to make 'em quiet again. I remember I heard a Piece of Wit, (which ſome think ſo rare among us) from a Private Centinel, who being at his Poſt, was thus accoſted by a Prieſt, <hi>Brother,</hi> ſays he to the Soldier, <hi>I wiſh you Peace: Damn ye for a Rogue,</hi> ſays he to the Prieſt, <hi>I wiſh you no Purgatory, and then we ſhall both be Beggars.</hi> Oh, that's a fine profitable Trade!</p>
+            <p>I can't but with ſome Rage exclaim againſt the har<g ref="char:EOLhyphen"/>den'd Impudence of theſe <hi>Savoy</hi> Prieſts, that dare obtrude upon the World, their own dull, inſipid, leaden Notions, for pure and ſtanch Divinity; all is Divinity forſooth! that comes from them, thô there be not a word in it, but they gloſs it over, and ſet a grave and religious Face upon it; and how common in their Mouths are violent Inve<g ref="char:EOLhyphen"/>ctives against the Pleaſures in general of this World? And who purſue them more than themſelves? Or indulge them<g ref="char:EOLhyphen"/>ſelves more than they do? They call them empty and inſi<g ref="char:EOLhyphen"/>pid, but they don't think them ſo, and thus they openly ſeem to treat Honour and Wealth, but privately ſolicit, and ea<g ref="char:EOLhyphen"/>gerly ſue for them; and when obtain'd, hug them heartily. They are as proud and covetous as other People, (nay, ra<g ref="char:EOLhyphen"/>ther worſe, becauſe they pretend to a greater Purity) and when they preach up, and ſeem to uſe Humility, 'tis but to ſerve their Pride. And pray what Good has all their Whi<g ref="char:EOLhyphen"/>ning
+<pb facs="tcp:94087:5"/>and Canting, their Preaching and Prating, their Scribling and Printing, done for theſe ſixteen hundred and odd years? It might with little pains and great plainneſs be ſhew'd that a great deal of Miſchief has been done thereby; but I ſhall leave them to the Reformers of this preſent Age, to ſee if they can do any good with them; for I fear I can't, thô I have us'd my hearty Endeavour. In<g ref="char:EOLhyphen"/>deed I do not ſee that the VVorld is a whit the better (or like to be) for them, or their Preaching, or their Books; when I find leſs Roguery and Villainy in it, and more Ho<g ref="char:EOLhyphen"/>nour and Honeſty, if they are the Cauſe of it, I may change my Opinion.</p>
+            <p>And now, Gentlemen, and Fellow-Soldiers, I ſhall take my leave of you, and wiſh you and my ſelf an early and happy Campaigne, where I hope to ſee you ſuddenly; for be it ſpoke to the Eternal Honour of the <hi>Engliſh</hi> Parliament, they have done their Buſineſs well and early, and given great and hearty Supplies to our Glorious Ma<g ref="char:EOLhyphen"/>ſter, and great and freſh Encouragement to us, and therefore let us haſte away, and do our Duty, that we may deſerve their Care of and Kindneſs to Us, and I hope God will give Us a ſignal and eminent Victory this Year over our Enemies in <hi>Flanders,</hi> and then, Boys, for <hi>France.</hi>
+            </p>
+            <closer>
+               <salute>Adieu.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94087:5"/>
+            <head>
+               <hi>RELIGIO MILITIS:</hi> OR, A <hi>Soldier's Religion.</hi>
+            </head>
+            <p>THE whole <hi>Pagan, Mahometan,</hi> and <hi>Chriſtian World,</hi> have been long (too long) plagu'd with Prieſts and Prieſt-craft; the common Theme, the daily Diſcourſe, the general Complaint, the fatal Malady, the eternal Grievance and State-Sore, believ'd it to be incurable; and therefore born as an Affliction without Remedy.</p>
+            <p>What it is that ſo univerſally clouds (ex<g ref="char:EOLhyphen"/>cept they have entirely abandon'd their whole Reaſon) the Maſs of People of all Nations of the known inhabited Globe (eſpecially of <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> who are thought to be wiſer and clearer-ſighted, at leaſt in Matters of this kind; having at this time more Learning among 'em than
+<pb n="2" facs="tcp:94087:6"/>all the World beſides) with this Stupidity, fatal and moſt pernicious Blindneſs, this de<g ref="char:EOLhyphen"/>teſtable and moſt ridiculous Bigotry, I know not; that, Comet-like, with fiery blazing Tail hovers over whole Kingdoms; Ominous, Por<g ref="char:EOLhyphen"/>tentous, Boding, Malevolent, threatning nought but Death of Multitudes, Deſtruction of Cities, Towns, and Villages, utter Ruin to, and ab<g ref="char:EOLhyphen"/>ſolute Extirpation of Families and Governments. For thus much ſcrupulous, ſuperſtitious Fools, and fly Hypocrites, when heated by Religion (pretended) have done, and may alſo do again.</p>
+            <p>What have we left now (after the dear Ex<g ref="char:EOLhyphen"/>perience of whole Centuries of Years, and ma<g ref="char:EOLhyphen"/>ny of them tumultuous, rebellious, and bloody ones too! to the Prieſt's eternal Shame be it ſpoke, who preſented and gave fire too) but the mere empty Name and ſound of Religion; the vaſt Numbers (Liberaries almoſt I may ſay) of Books and Pamphlets of Controverſie, which tend not to the Pacification, but rather general Diſturbance and Confuſion of Mankind, in their Opinions, Notions, and even Practices of it? Nay, of Books too, that only bear the Gloſs and Varniſh of Religion? I ſhall ſay nothing
+<pb n="3" facs="tcp:94087:6"/>of the mighty Breach of Civil Society, by fooliſh and unnatural Heats; the Pulpit and the Preſs go hand in hand, confederated, to improve the Miſchief, and ſpread the Evil. Surely it muſt be for their Intereſt they bawl ſo boldly, and print ſo abundantly. Ah, this Intereſt! this damn'd prevailing Intereſt! that governs all the World (and even thoſe Good Men too) that rules the Roaſt every-where; that in all places ſo abſolutely plays the Tyrant, enſlaving moſt (and wou'd if they cou'd all) Men's Perſons, Purſes, and Senſes, notwithſtanding all their ſpecious and gilded Pretences to the contrary: Nay, they tell the World, that by their kind Aſſiſtance and never-failing Help, they ſhall all be made wiſe here, and happy hereafter; but believe them who will for me.</p>
+            <p>Whither then ſhall we fly, in ſearch of that which is really (and not only call'd) True Re<g ref="char:EOLhyphen"/>ligion? I mean the Eſſential, not Nominal, which is in every body's mouth, and only there; that Religion which is to guide us in the dark and difficult Paths we move in, and which muſt hereafter ſave our main Stake.</p>
+            <pb n="4" facs="tcp:94087:7"/>
+            <p>If we go to the Church-National in every Kingdom (not to ſay one Word of our own, for they muſt not be medled with; the Preſs muſt be broke, and the Book burn'd, if they are touch'd, though never ſo gently) how wretched! how miſerably are they divided, rent, and torn among themſelves! You wou'd think your ſelf amongſt the feign'd Furies, or amidſt the Sons of <hi>Mars</hi> in Battel, and not with the Miniſters of Peace; ſo hot, ſo violent, ſo fu<g ref="char:EOLhyphen"/>rious (nay, and revengeful too, in due time) are they in their empty Diſputes! And what a orry Account (<hi>God</hi> knows) do they give of the Buſineſs of t'other World, of which they make ſo great a Noiſe, and know nothing; (not that I deny a future State) whereas indeed to ſpeak ſtrictly, and home to the purpoſe, they are ſo much concern'd for, and buſied in, and with the Profits, Honours, and Pleaſures of this World, that they trouble themſelves very little about that. Good Men! you'll ſay there's a great deal of reaſon they ſhou'd be ſo much eſteem'd and reſpected as they are. But, 'pray', by whom are they ſo? By the Mobb, and ſome ſoft Heads amongſt the Richer (not Wiſer)
+<pb n="5" facs="tcp:94087:7"/>ſort of People; not by one Man of Senſe, I am ſure.</p>
+            <p>And for that <hi>Hydra</hi> of <hi>Separation,</hi> of more Names than Heads; thoſe red-hot Monſters, that Salamander-like can live (for ever) in the Fire of Contention; thoſe Mount <hi>Aetnas,</hi> that belch out nothing but Fire and Brimſtone, Hell and Damnation; their Doctrines (not to mention their Practices, wholly contradictory, ſelfiſh, worldly, and to our Coſt, for we can rember it, very bloudy) are ſo terrible, ſo full of Horrour and Deſpair, and Heaven gain'd by their Aſſiſtance, which is ſeldom, if ever) with ſo much difficulty, that many of their Hearers have gone immediately from their Auditories, and poiſon'd, hang'd, or drown'd themſelves; and others left in a deſponding Condition, only fit for Pity and Compaſſion; there Men well not help us at all in this matter.</p>
+            <p>What if we ſhould take a Taſte of the New <hi>Roman</hi> (Catholick, as they call it themſelves, though falſly, every-body knows) Religion? I doubt we ſhall reliſh it but very indifferent<g ref="char:EOLhyphen"/>ly; not to run through the ſeveral Orders of Crafty Jeſuites, Letcherous Prieſts, and Lazy
+<pb n="6" facs="tcp:94087:8"/>Monks; but to ſtick a little upon the Jeſuites (who have often ſtuck upon our Skirts) their greateſt Champions, their Captain-Generals; thoſe cunning Rogues, that, Mole-like, love, live, and act under-ground, and in the dark; thoſe <hi>Hocus-Pocus's,</hi> thoſe <hi>German, French, Spa<g ref="char:EOLhyphen"/>niſh, Portugueſe,</hi> and <hi>Italian Juglers,</hi> with their Powders of <hi>Pimper de Pimp</hi> (I mean their Poli<g ref="char:EOLhyphen"/>ticks) have confounded and embroil'd the grea<g ref="char:EOLhyphen"/>teſt part of the World, (where they have had to do) though, I think, we of <hi>England</hi> are highly oblig'd to them, for a Civility they late<g ref="char:EOLhyphen"/>ly did us, in eaſing us of a King that began to be very troubleſome to us; it muſt be a<g ref="char:EOLhyphen"/>vow'd, they are ingenuous and modeſt Men, for they don't pretend to abundance of Religion; they ſpend their time in, and bend their Stu<g ref="char:EOLhyphen"/>dies wholly to Politicks (let the other Orders look to what <hi>Religion</hi> is left, and cultivate it, if they will or can;) they content themſelves with the ſecular Government of the World. Alas! they are Men of ſome Ambition, and love to Rule, but hate to be Rul'd, no, not by their own Provincial (who, I am ſure, has lately complain'd to the Pope of them) and inſtead
+<pb n="7" facs="tcp:94087:8"/>of Pulpits, you may find them in Princes Cabi<g ref="char:EOLhyphen"/>nets: 'Tis not enough for them to be their Con<g ref="char:EOLhyphen"/>feſſors, but they muſt be their moſt private Counſellors too; and it may be thoſe Princes are not altogether in the wrong, becauſe all their Applications tend to aſſiſt them in their Myſteries (as they call them) of State, thoſe <hi>Arcana Imperii.</hi> But let thoſe golden Heads have a care, and look to themſelves, leſt they be ſerv'd (by them) as a Gentleman was that travell'd ſome Years ſince to <hi>France</hi> (the ſecond time; though one wou'd have thought he had had enough of the firſt, at leaſt if had reflected upon his and his Brother's good Uſage there, and from their dear (indeed) Brother <hi>Lewis</hi> too) to learn the Trade of Empire, or to better his Air (I am ſure he has not better'd his Condition by it) or to learn to Cock his Hat a little handſomer <hi>a-la-mode de France.</hi> Well; 'tis no great matter which; he has had time and leiſure enough to bemoan his Misfortunes, and ſeriouſly to conſider whence they ſprung. And, to conclude this Paragraph, may they all be ſo treated, who adhere ſo ſtifly to the <hi>So<g ref="char:EOLhyphen"/>ciety
+<pb n="8" facs="tcp:94087:9"/>of Jeſus,</hi> or indeed to any other of the <hi>Black Gang.</hi>
+            </p>
+            <p>And for the poor <hi>Mahometans</hi> and <hi>Pagans,</hi> we can expect but little help from them, we may rather pity their Blindneſs and Ignorance (of both which, the World ſeems agreed they have enough) though I am of Opinion, there are many curious and fine Heads amongſt them, that plainly ſee, and fain would cure the worſt Diſeaſe in their State; I mean being rid by their own Aſſes, I ſhould have ſaid Prieſts.</p>
+            <p>Well; whether ſhall we now go? Not to the Royal Courts of the World, I hope, a<g ref="char:EOLhyphen"/>mongſt the Terreſtrial Gods, to find out Reli<g ref="char:EOLhyphen"/>gion; I fancy we ſhou'l loſe our Labour, and have nothing but that for our Pains; and be<g ref="char:EOLhyphen"/>cauſe we are unwilling to peep into the pri<g ref="char:EOLhyphen"/>vate Chapels, or in the leaſt to reflect upon the Religion of the Folks that live there, (becauſe they are great Ones, and it may be they will ſmoke us off for it, and puniſh our ſaucy Cu<g ref="char:EOLhyphen"/>rioſity) we will e'en let them alone, eſpecially in matters of that kind.</p>
+            <pb n="9" facs="tcp:94087:9"/>
+            <p>But what do you think if we ſhou'd bear down upon the Navy, and board them? They are a ſort of Soldiers as well as we, therefore one wou'd think we might allow them ſome Religion, being in a manner a part of us; no, we muſt at laſt to the Army, (the Camp is in<g ref="char:EOLhyphen"/>deed the proper Seat of it) eſpecially if we are able to make any thing of our Title out. Well; we'll march thither by and bye; but before we part with the honeſt jolly Tarpollins, we muſt have a fling at them, and their Commanders too, who have not much more Sence than they, whatever they may have of Religion: Alas, poor Rogues! when on Salt-water, they readily ſwallow the Common, or any Prayer, or the Directory, and by wholeſale, as they do Punch or Flip; but ſeldom are over-zealous till they return to Land, when they, with their whole Family, haſten away to the Conven<g ref="char:EOLhyphen"/>ticles, where Cant, Noiſe, and Nonſence, Whining and Sighing, are much in Admira<g ref="char:EOLhyphen"/>tion. So that where ſo little Reaſon reſides, we can't, with any Hopes or Juſtice, expect to find Religion.</p>
+            <pb n="10" facs="tcp:94087:10"/>
+            <p>Come on then, let us away to the Field of <hi>Mars,</hi> and there we ſhall find it. I have ex<g ref="char:EOLhyphen"/>amin'd all Religions, and that very ſeriouſly too, and yet can't tell what to think of them; for all pretend to be in the right; Ours, they all cry, is the pureſt, the beſt, the moſt holy Religion: And how ſhall we be ſatisfied in this matter? For they not only boldly affirm theirs to be the True Religion, and all the others falſe; but moſt of them will fight (and deſperately too) as well as prate for it; more-eſpecially when their Zeal is over-hot by the impudent Pulpiteers: But if you ſtrictly examin into their Lives and Actions, you will find them like the reſt of the World; and if they do differ, 'tis only in being more craftily and compleatly wicked.</p>
+            <p>Were I yet to chuſe my Religion, I wou'd not by any means turn <hi>Turk,</hi> though for no other Reaſon but that the <hi>Alcoran</hi> ſo ſtrictly and ſeverely forbids the Uſe of Wine; not but that I think ſome Amends is made for this, in their ſweet and pleaſing (and perhaps Rational) Doctrine of Polygamy; and <hi>Mahomet</hi>'s Pro<g ref="char:EOLhyphen"/>miſe
+<pb n="11" facs="tcp:94087:10"/>to his Followers, of the Enjoyment of beautiful Women in Paradiſe. In which Points (for my particular) I eſteem them leſs Erro<g ref="char:EOLhyphen"/>neous; nor am I a little pleas'd with the Ob<g ref="char:EOLhyphen"/>ſervations of the Learned, that the ſame <hi>He<g ref="char:EOLhyphen"/>brew</hi> Word in the Old Teſtament that ſtands for an <hi>Hoſteſs,</hi> ſignifies alſo an <hi>Harlot.</hi> For what can be more unreaſonable than to tie me to one Wife, who am to eat my Bread in more Countries than one?</p>
+            <p>And though I am not abſolutely a <hi>Turk,</hi> in propagating my Religion by the Sword, and it be none of my Opinion, that Soldiers are the only Miſſionaries; yet I am ſo much a <hi>Chriſtian</hi> to declare my own ought to be defen<g ref="char:EOLhyphen"/>ded with my Life; for I ever thought it the noble Poſture of defending the Creed, after the manner of the Knights of <hi>Malta,</hi> with Swords drawn: And what is of great conſide<g ref="char:EOLhyphen"/>ration with me, in the receiving the <hi>Nicene</hi> Creed into my Belief, and indeed has ſtrong<g ref="char:EOLhyphen"/>ly confirmed me in it, is, That in the Muſter-Rolls of the Councils, it had been, upon a juſt
+<pb n="12" facs="tcp:94087:11"/>Calculation, computed, That the Fathers who car<g ref="char:EOLhyphen"/>ried it for the Creed, were Three hundred and eighteen; the preciſe Number of <hi>Abraham</hi>'s Family which he liſted in the Field.</p>
+            <p>I muſt confeſs, the <hi>Pagan</hi> Religion, which conſiſted chiefly in bloudy Sacrifices, taught its Profeſſors more Gallantry, and bred in them greater Principles of Honour than the <hi>Chriſtian,</hi> which in this particular alſo receded (not that I will ſay degenerated) from the <hi>Jew,</hi> who brave<g ref="char:EOLhyphen"/>ly profeſs'd with Circumciſion, and ſo even in his tender Years, ſeal'd his firſt Sacrament with Bloud. To ſay nothing of the other (many) Inſtances, in which the <hi>Pagan</hi> had the Ad<g ref="char:EOLhyphen"/>vantage of the <hi>Chriſtian</hi> Religion; as, in the Inſtitutions of their Games, and their Triumphs, their Prizes, and their Crowns, which they a<g ref="char:EOLhyphen"/>warded to their Conquerours, and thoſe that got the Maſtery in their Games. But then what again reconciles me much to the <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Religion, is, Her Declaration in the <hi>Can<g ref="char:EOLhyphen"/>ticles,</hi> That <hi>the Church is Terrible as an Army with Banners;</hi> and Her aſſuring me, That
+<pb n="13" facs="tcp:94087:11"/>
+               <hi>even the Life of Man is a Warfare upon Earth:</hi> Which ſeems the true and genuine Lan<g ref="char:EOLhyphen"/>guage, of the Church-Miſitant; and ſhe appear'd no leſs in the Age of the Holy War, and of the Expedition of Chriſtian Princes to the Holy Land; ſince which time, She has ſplit into innumerable Sects at Home, for want of keeping her Men in conſtant Breath and Exerciſe againſt the <hi>Turks</hi> and <hi>Saracens</hi> abroad: And Chriſtian Princes have ſpent their Metal upon each other, which they employ'd with much more Honour againſt the <hi>Common Enemy</hi> of <hi>CHRISTENDOM.</hi>
+            </p>
+            <p>It was indeed an Age of Gallantry, the <hi>Genius</hi> of it truly Martial and Heroick, and the Race of Men ſuch as ſeem'd born to diſtinguiſh Themſelves in Feats of Arms, even in their Sports and Exerciſes, which were Noble and Manly; and what is yet more, even in their very Tales and Ro<g ref="char:EOLhyphen"/>mances; for much about that time, as ſome think, were all thoſe bold Fables of Knights
+<pb n="14" facs="tcp:94087:12"/>and Giants firſt hatched; which contributed not a little perhaps to that Expedition, as in ſucceeding Times they grew up to the Illuſtrious Orders of Knighthood of Saint <hi>George,</hi> and the <hi>Golden Fleece.</hi>
+            </p>
+            <p>While theſe Legions had a Power over Men's Minds, they became bold by Me<g ref="char:EOLhyphen"/>ditation; their Heads were fill'd with No<g ref="char:EOLhyphen"/>tions of Braves and Hero's; and they were carried, even beyond themſelves, to Great and Generous Enterprizes.</p>
+            <p>Thus <hi>Alexander,</hi> by having <hi>Homer</hi> under his Pillow, became a Conquerour; and <hi>Thu<g ref="char:EOLhyphen"/>cydides,</hi> as it is reported, by hearing <hi>Herodotus</hi> read, cou'd not contain himſelf from Tears, but was ſpirited into an Hiſtorian, by meer force of Emulation. But, alas! theſe Tales have long ſince loſt their Reputation; the Love-Romances and Novels are altogether in Vogue and Eſteem; whilſt thoſe of <hi>Chi<g ref="char:EOLhyphen"/>valry</hi> are wholly laid aſide, and in Diſ<g ref="char:EOLhyphen"/>grace.</p>
+            <pb n="15" facs="tcp:94087:12"/>
+            <p>Other Notions have prevail'd, with which Men have been too long unhappily perverted and debauch'd: Feats of Arms, heretofore in the greateſt Admiration, are now ridi<g ref="char:EOLhyphen"/>cul'd and run down, under the odious Terms of <hi>Knight-Errantry;</hi> ſo viſible are the Decays of the ancient Courage, that, in the Opi<g ref="char:EOLhyphen"/>nion of ſome, the Degeneracy of the <hi>Spa<g ref="char:EOLhyphen"/>niards,</hi> from their former Reputation in Arms, is, in a manner, owing to the Buffoonries of <hi>Don Quixot.</hi>
+            </p>
+            <p>I remember to have read the Statute of 33 <hi>Hen.</hi> 8. <hi>cap.</hi> 9. which aſcribes the Growth of Debauchery, and Decay of Military Diſcipline with us here in <hi>England,</hi> to the Diſuſe of Archery; and the change of the ancient Exerciſe of the Long-Bow, for the more unmanly new Exerciſes of Tennis, Bowls, and Nine-Pins; to which might be added, the Deſuetude of thoſe Mar<g ref="char:EOLhyphen"/>tial Sports once in uſe, of Tilting, Tourna<g ref="char:EOLhyphen"/>ments, and Running at the <hi>Quintin;</hi> as alſo the Diſcontinuance of the Trial once ſo
+<pb n="16" facs="tcp:94087:13"/>frequent in criminal Caſes, by Battel or Combat; a Priviledge, which if it be denied to others, yet, if I may be allow'd to ſpeak in the behalf of my Profeſſion, I think it hard to barr us from claiming it as our Right: For why ſhou'd my Hands be tied up, when my Life is in queſtion more ſtrictly by Formalities of Common Law, than I am by Civil Law, in making my Will to diſpoſe of my Eſtate; ſince the Emperours made duly this Provi<g ref="char:EOLhyphen"/>ſion for the eaſe of Soldiers, That their laſt Wills ſhould be good, though made without Solemnities of Law; the reaſon of which is plainly declar'd to be in conſideration of their Ignorance of the Law, as an Allowance leſs than neceſſary to our cloſe Attendance on our Colours: Nor is it reaſon to expect the Skill of other Arts from us, whoſe ſole Profeſſion is the Art of War; and to this purpoſe <hi>Ju<g ref="char:EOLhyphen"/>venal, Satyr</hi> XVI.
+<q>
+                  <l>By ancient Laws and Customs ſacred held</l>
+                  <l>By Great <hi>Camillus,</hi> Soldiers never were com<g ref="char:EOLhyphen"/>pell'd</l>
+                  <pb n="17" facs="tcp:94087:13"/>
+                  <l>Tappear in Courts; but in the Camp t'abide,</l>
+                  <l>And by their own Commanders to be Try'd.</l>
+               </q> Though had the Trial by Battel been a Right in ſuch Caſes, yet indulg'd to all, I am of Opinion, it might have been no leſs a means to redeem the ancient Honour of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Nation, than the <hi>Juego de Toros,</hi> or the Bull-Feaſt has been eſteem'd among the <hi>Spaniards,</hi> to retrieve their loſt Reputation in Arms; which has ſo viſibly declin'd of late among them, that <hi>Don Quixot,</hi> conſide<g ref="char:EOLhyphen"/>ring the general Entertainment he has met with in ſo many Nations, and his Tranſla<g ref="char:EOLhyphen"/>tion into ſo many Languages, ſeems at pre<g ref="char:EOLhyphen"/>ſent to have a better Right to the Univerſal Monarchy, than they, who once laid claim to it themſelves, notwithſtanding he turns all Fighting into a Jeſt; and his Story is no leſs than a moſt accompliſh'd Libel, on all the Soldiers of <hi>Christendom.</hi>
+            </p>
+            <p>It were to be wiſh'd, however, the witty <hi>Spaniard</hi> had infected only his own Country<g ref="char:EOLhyphen"/>men;
+<pb n="18" facs="tcp:94087:14"/>but it is to be fear'd, alas! the Poiſon has been tranſplanted too far in ſo ſhort a time; and that it has taken but too deep root with too many of their (once Re<g ref="char:EOLhyphen"/>nown'd) Neighbours; nay, and even of our own Nation too: For I have been credibly inform'd, of one of the Senior Fellows of a certain College in <hi>Oxford</hi> (too well known to need Naming) who having imbib'd a fond Opinion, That whatever was the laſt Employment of a Soul at the point of Death, would hold the ſame even to the Day of Judgment. He, in purſuance of ſuch an Opinion, when he apprehended himſelf near his laſt Moments, made all the haſte his Extremity of Age would allow, to turn over the Leaves of <hi>Don Quixot;</hi> as if he cour<g ref="char:EOLhyphen"/>ted no better an Employment for his Soul, than to be engag'd in that Comieal Hiſtory until the Day of <hi>Judgment.</hi> What ſhall I ſay elſe to the applauded <hi>Satyr againſt Man,</hi> of one of our admir'd Wits, wherein he has bid Defiance to our Profeſſion, and to all Man<g ref="char:EOLhyphen"/>kind at once, in telling us, That
+<pb n="19" facs="tcp:94087:14"/>
+               <q>All Men wou'd be Cowards, if they durst,</q> but only this, That if Cowards bid ſo fair for Univerſal Monarchy, the <hi>Spaniards</hi> even yet may hope not to be excluded. But this, alas! is but the Goſpel of a Poet, who was ſuppos'd to have ſaid this in defence of him<g ref="char:EOLhyphen"/>ſelf, who lay under ſome Scandal of that kind.</p>
+            <p>But what do we talk of ſingle Perſons, when of late there is riſen up a New Sect among us, who make Conſcience of Cow<g ref="char:EOLhyphen"/>ardice, and entail Religion upon it; I mean the ſneaking <hi>Anabaptists,</hi> who are proper Patrons for ſuch a Doctrine as this, <hi>That all Wars are unlawful.</hi> I ſhall not preſs them with the Heroick Deſcription of the War-Horſe in the Book of <hi>Job,</hi> becauſe I hear that has not the Authority of Canonical Scripture with them, but is reputed no leſs Apocry<g ref="char:EOLhyphen"/>phal than our Profeſſion. But what do they ſay to the Practice of one of the firſt Re<g ref="char:EOLhyphen"/>formers
+<pb n="20" facs="tcp:94087:15"/>abroad; <hi>Zuinglius,</hi> who ſcrupled not to be a Captain, and died bravely in his Calling at the Battel of <hi>Zurick;</hi> leaving an Example behind him, which thoſe of the <hi>Helvetian</hi> Reformation have follow'd cloſe ever ſince, as all Republicks taſte much of their firſt Be<g ref="char:EOLhyphen"/>ginnings, ſince the <hi>Swiſs-Cantons</hi> are in effect but a Commonwealth of Soldiers; who by hiring of War abroad among their Neigh<g ref="char:EOLhyphen"/>bour-Princes, have wiſely found the way to free their Country from Thieves, as alſo from the unhappy and diſmal Effects of Civil Wars at home (as they are generally call'd) though I think for the moſt part very rude and ſharp, and indeed the worſt ſort of all.</p>
+            <p>Where are they now that accuſe Rapine and Poverty, as the natural and immediate Reſults of War; ſince it appears, by a juſter Calculation of Aſtrology, that Beggars en<g ref="char:EOLhyphen"/>ter'd into all Chriſtian Countries, upon the Diſſolution of Slaves; as even the Repub<g ref="char:EOLhyphen"/>lick of <hi>Switzers</hi> affords us a Glorious Inſtance
+<pb n="21" facs="tcp:94087:15"/>in the other reſpect, ſince no Commonwealth furniſhes out more Soldiers, or has fewer Thieves.</p>
+            <p>I take Mr. <hi>Hobbs</hi> to be a far better Divine than any of the Anabaptiſts, in his Opinion, <hi>That the State of Nature is a State of War, where every Man's Sword is againſt another.</hi> Nor do I think his other Opinion, <hi>That Dominion is ſoun<g ref="char:EOLhyphen"/>ded in Power,</hi> altogether ſo ill-grounded and extravagant, ſince it cuts off ſo many nice Diſputes about Princes Titles, and the Rights and Juſtice, or Lawfulneſs of their Wars, which ſeems ſo unreaſonable to engage Men of our Profeſſion in, that it appears a <hi>Task</hi> much fit<g ref="char:EOLhyphen"/>ter for an Army of <hi>Caſuiſts</hi> than <hi>Soldiers.</hi>
+            </p>
+            <p>Did the <hi>Anabaptiſts</hi> look for Miracles, their condemning all <hi>Camps</hi> as unlawful, might me<g ref="char:EOLhyphen"/>rit the ſame Excuſe, as their condemning all <hi>Colleges</hi> and <hi>Schools,</hi> as vain and ſuperfluous, from their Pretences to Inſpiration; for ſo the Argument would hold alike fair, and conclu<g ref="char:EOLhyphen"/>ding for baniſhing both Soldiers and Scholars
+<pb n="22" facs="tcp:94087:16"/>out of the World; and as they make one ſtep to make <hi>Dunces</hi> by Divine Right for com<g ref="char:EOLhyphen"/>pany.</p>
+            <p>I deny not but that I gaze often, as I ought, with profound Reverence and Admiration, upon <hi>Sampſon</hi>'s killing Heaps upon Heaps, with the Jaw-bone of an Aſs; and upon the Walls of <hi>Jericho</hi> falling flat before the <hi>Trumpets</hi> of <hi>Rams-horns;</hi> and upon <hi>Gideon</hi>'s miraculous <hi>Campagne</hi> with his Three hundred Men, arm'd with their Lamps lighted, and their Pitchers in their hands. Theſe I look upon as very extraordinary and magnificent Scenes in that Age of Miracles: But now that theſe mira<g ref="char:EOLhyphen"/>culous Militia's are ceas'd, which it may be were peculiar to that State, I frankly own, That the Sword of <hi>God</hi> and <hi>Gideon</hi> is to me more intelligible; and I ingenuouſly profeſs my ſelf much of the ſame Belief of that <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> Marſhal, who us'd to ſay, <hi>He trusted in God and great Squadrons.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
